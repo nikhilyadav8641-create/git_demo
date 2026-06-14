@@ -1,8 +1,23 @@
+.box{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+}
 .box1{
     height: 1000px;
     width: 1000px;
     border-radius: 50%;
     background-color: aqua;
+   justify-content: center;
+   text-align: center;
+
+}
+.box2{
+    height: 1000px;
+    width: 1000px;
+    border-radius: 50%;
+    background-color:blanchedalmond;
    justify-content: center;
    text-align: center;
 
